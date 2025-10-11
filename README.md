@@ -1,10 +1,13 @@
-## Hi there 👋
+- 👯 I’m looking to collaborate on web tools.
+- 🔭 I’m currently working on:
+  + [MangaFace](https://github.com/miladnia/MangaFace) _(a customizable avatar generator)_
+  + [TechNote](https://github.com/miladnia/technote) _(a markdown-based note-taking app for developers)_
+
+[![MangaFace avatar generator](https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2.png "Demo | Click here to try it out")](https://miladnia.ir/MangaFace/)
+
+![TechNote note-taking app](https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png)
 
 <!--
-**miladnia/miladnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
