@@ -3,9 +3,11 @@
   + [MangaFace](https://github.com/miladnia/MangaFace) _(a customizable avatar generator)_
   + [TechNote](https://github.com/miladnia/technote) _(a markdown-based note-taking app for developers)_
 
-[![MangaFace avatar generator](https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2.png "Demo | Click here to try it out")](https://miladnia.ir/MangaFace/)
+<a href="https://miladnia.ir/MangaFace/" target="_blank" title="Demo | Click here to try it out">
+  <img src="https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2.png" width="30%" alt="MangaFace avatar generator">
+</a>
 
-![TechNote note-taking app](https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png)
+<img src="https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png" width="30%" alt="TechNote note-taking app">
 
 <!--
 - 🔭 I’m currently working on ...
