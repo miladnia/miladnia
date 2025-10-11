@@ -5,7 +5,10 @@
 
 <a href="https://miladnia.ir/MangaFace/" target="_blank" title="Demo | Click here to try it out">
   <img src="https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2.png" width="30%" alt="MangaFace avatar generator">
-</a><img src="https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png" width="30%" alt="TechNote note-taking app">
+</a>
+<a href="https://github.com/miladnia/technote" target="_blank" title="Demo | Click here to try it out">
+  <img src="https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png" width="30%" alt="TechNote note-taking app">
+</a>
 
 <!--
 - 🔭 I’m currently working on ...
