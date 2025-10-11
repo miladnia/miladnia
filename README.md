@@ -9,6 +9,14 @@
   <img src="https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png" width="45%" alt="TechNote note-taking app">
 </a>
 
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,ts,js,vite,react,jest" />
+  </a>
+</p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
