@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://miladnia.ir/MangaFace/" target="_blank" title="Demo | Click here to try it out">
-  <img src="https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2__02.png" width="45%" alt="MangaFace avatar generator">
+  <img src="https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2__03.png" width="45%" alt="MangaFace avatar generator">
 </a>
 <a href="https://github.com/miladnia/technote" target="_blank" title="Demo | Click here to try it out">
   <img src="https://github.com/miladnia/technote/raw/main/docs/technote_note_preview.png" width="45%" alt="TechNote note-taking app">
