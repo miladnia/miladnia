@@ -3,7 +3,7 @@
   + [TechNote](https://github.com/miladnia/technote) _(a markdown-based note-taking app)_
 
 <p align="center">
-<a href="https://miladnia.ir/MangaFace/" target="_blank" title="Demo | Click here to try it out">
+<a href="https://mf.miladnia.ir/" target="_blank" title="Demo | Click here to try it out">
   <img src="https://raw.githubusercontent.com/miladnia/MangaFace/main/docs/preview_v0.2__03.png" width="45%" alt="MangaFace avatar generator">
 </a>
 <a href="https://github.com/miladnia/technote" target="_blank" title="Demo | Click here to try it out">
